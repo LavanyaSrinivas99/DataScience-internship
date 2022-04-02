@@ -1,2 +1,2 @@
 # DataScience-internship
-my Data Science internship journey at DLithe
+My Data Science internship journey at DLithe
